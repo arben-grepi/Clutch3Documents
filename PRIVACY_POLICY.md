@@ -73,10 +73,29 @@ You have the right to:
 - Access and review your personal information
 - Request correction of inaccurate information
 - Request deletion of your account and associated data
+- **Request deletion of specific data without deleting your account** (e.g., delete all videos but keep your account)
+- **Request deletion of all your personal data without deleting your account** (e.g., delete all videos, statistics, and profile information while keeping your account active)
 - Opt out of certain data processing activities
 - Withdraw consent where processing is based on consent
 
-To exercise these rights, please contact us at [clutch3.info@gmail.com](mailto:clutch3.info@gmail.com).
+### How to Request Data Deletion
+
+You can request data deletion in two ways:
+
+1. **Delete Account Completely:** Use the "Delete Account" option in the App Settings, which will permanently delete your account and all associated data.
+
+2. **Partial or Complete Data Deletion (Account Remains):** Contact us by email at [clutch3.info@gmail.com](mailto:clutch3.info@gmail.com) to request:
+   - Deletion of specific data types (e.g., all videos, all statistics, profile information)
+   - Deletion of all personal data while keeping your account active
+   
+   When requesting partial or complete data deletion, please specify:
+   - Which data you want deleted (videos, statistics, profile information, etc.)
+   - Whether you want to keep your account active
+   - Your user email or account identifier for verification
+
+We will process your request within 30 days and confirm completion via email.
+
+To exercise any of these rights, please contact us at [clutch3.info@gmail.com](mailto:clutch3.info@gmail.com).
 
 ## 9. Children's Privacy
 
