@@ -21,11 +21,11 @@ Testaajien tulee käyttää sovellusta **vähintään 14 päivän ajan** ja tall
 ### **Lataa sovellus:**
 
 #### **Android**
-https://play.google.com/store/apps/details?id=com.clutch3.firebase  
+https://play.google.com/store/apps/details?id=com.clutch3.firebase
 **Palaute lähetetään sähköpostitse:** clutch3.info@gmail.com
 
 #### **iOS**
-https://testflight.apple.com/join/xrKxKhCm  
+https://testflight.apple.com/join/xrKxKhCm
 **iOS-sovelluksen käyttö vaatii TestFlight-apin lataamisen**, palaute annetaan alustan kautta.
 
 ---
