@@ -24,10 +24,10 @@ Welcome to Clutch3. We are committed to protecting your privacy and ensuring the
 We use the information we collect to:
 
 - Provide, maintain, and improve the App's functionality
-- Process and verify your video submissions for competitions
-- Enable peer review of video submissions
+- Process and verify your video submissions for competitions using AI-powered backend verification
 - Calculate and display your shooting statistics and rankings
 - Facilitate group participation and messaging features
+- Enable users to view their own videos and videos from other group members
 - Send you notifications related to your account and app activity
 - Detect and prevent fraud, abuse, or other security issues
 - Comply with legal obligations
@@ -53,7 +53,7 @@ Clutch3 requests the following permissions:
 
 We may share your information in the following circumstances:
 
-- **With Other Users:** Your videos may be reviewed by other app users as part of the peer review system. Your name and statistics may be visible to other users in groups and competitions.
+- **With Other Users:** Your videos may be viewed by other members of groups you join. Your name and statistics are visible to other users in groups and competitions. Videos are automatically verified by our backend AI system rather than manual peer review.
 - **Service Providers:** We use third-party services (Firebase, Google Cloud Platform) to host and process your data. These services are bound by confidentiality agreements.
 - **Legal Requirements:** We may disclose your information if required by law or in response to valid requests by public authorities.
 - **Business Transfers:** In the event of a merger, acquisition, or sale, your information may be transferred to the new entity.
