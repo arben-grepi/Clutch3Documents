@@ -53,7 +53,7 @@ Clutch3 requests the following permissions:
 
 We may share your information in the following circumstances:
 
-- **With Other Users:** Your videos may be viewed by other members of groups you join. Your name and statistics are visible to other users in groups and competitions. Videos are automatically verified by our backend AI system rather than manual peer review.
+- **With Other Users:** Your videos may be viewed by other members of groups you join. Your name and statistics are visible to other users in groups and competitions. Videos are automatically verified by our backend AI system, and group members can cross-validate each other's performances by viewing the last 5 shooting sessions and reporting suspicious videos to group admins.
 - **Service Providers:** We use third-party services (Firebase, Google Cloud Platform) to host and process your data. These services are bound by confidentiality agreements.
 - **Legal Requirements:** We may disclose your information if required by law or in response to valid requests by public authorities.
 - **Business Transfers:** In the event of a merger, acquisition, or sale, your information may be transferred to the new entity.

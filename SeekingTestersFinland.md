@@ -4,9 +4,9 @@
 
 Olen kehittänyt **kolmen pisteen heittämiseen tarkoitetun äpin** ja tarvitsen testikäyttäjiä.
 
-Sovelluksessa pelaajat **kuvaavat ja lähettävät platformille 10 kpl 3-pisteen heittoja per video** (max muutama versio päivässä). Pelaajien tulee **vahvistaa toisen pelaajan sisäänmenneet heitot** ennen kuin voi ladata oman videon alustalle. 
+Sovelluksessa pelaajat **kuvaavat ja lähettävät platformille 10 kpl 3-pisteen heittoja per video** (max muutama versio päivässä). **Ryhmän jäsenet vastaavat toistensa heittojen tarkistamisesta** - käyttäjät voivat raportoida epäilyttävät videot ryhmän ylläpitäjälle. 
 
-Pelaajat voivat **luoda ja liittyä ryhmiin**, joissa he näkevät sijoituksensa **reaaliaikaisella tuloslistalla**. Ranking perustuu **Clutch3-heittoprosenttiin**, joka lasketaan **viimeisestä sadasta heitosta** (10 vahvistettua heittosessiota).
+Pelaajat voivat **luoda ja liittyä ryhmiin**, joissa he näkevät sijoituksensa **reaaliaikaisella tuloslistalla**. Ranking perustuu **Clutch3-heittoprosenttiin**, joka lasketaan **viimeisistä 50 heitosta** (5 viimeisintä heittosessiota).
 
 **Kolme parasta palkitaan lahjakortilla Korispisteeseen!**
 

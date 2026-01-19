@@ -5,9 +5,9 @@
 ## Mitä sovellus tekee
 
 - Pelaajat **kuvaavat 10 heittoa per sessio** ja lataavat videon alustalle
-- **Toiset pelaajat vahvistavat heitot** ennen pisteiden hyväksyntää
+- **Ryhmän jäsenet vastaavat toistensa heittojen tarkistamisesta** - käyttäjät voivat raportoida epäilyttävät videot ryhmän ylläpitäjälle
 - Käyttäjät voivat **luoda tai liittyä ryhmiin**
-- Ranking perustuu **Clutch3-prosenttiin**, joka lasketaan **viimeisestä 100 vahvistetusta heitosta**
+- Ranking perustuu **Clutch3-prosenttiin**, joka lasketaan **viimeisistä 50 heitosta** (5 viimeisintä heittosessiota)
 - Reaaliaikaiset tuloslistat ja kilpailullinen treenikokemus
 
 ## Teknologiat
